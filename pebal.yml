@@ -3,7 +3,7 @@ channels:
   - defaults
   - conda-forge
 dependencies:
-  - _libgcc_mutex=0.1=conda_forge
+  - _libgcc_mutex=0.1
   - _openmp_mutex=4.5=1_llvm
   - blas=1.0=mkl
   - bzip2=1.0.8=h7f98852_4
